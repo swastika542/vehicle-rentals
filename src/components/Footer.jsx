@@ -33,7 +33,7 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://devrahuls.vercel.app/"
+                  href="https://github.com/swastika542"
                 >
                   Design with ❤️ by Swastika Das
                 </a>
